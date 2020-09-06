@@ -2,6 +2,8 @@
   React Code Template
 </h1>
 
+I want to learn React.
+
 ## 🚀 Get Up and Running in 1 Minutes
 
    ```shell
